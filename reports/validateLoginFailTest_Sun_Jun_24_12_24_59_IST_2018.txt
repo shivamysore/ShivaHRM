@@ -1,0 +1,18 @@
+---Test case execution started---validateLoginFailTest-started
+---INFO---****Entering UserName shiva
+---INFO---****Entering User Password Prasad$897867vnbn
+---INFO---****Clicking on Login Button
+org.openqa.selenium.NoSuchElementException: Unable to locate element: //h1
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.10.0', revision: '176b4a9', time: '2018-03-02T19:10:56.039Z'
+System info: host: 'SHIVU-PC', ip: '192.168.186.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_51'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 55.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:processID: 3856, moz:profile: C:\Users\Shivu\AppData\Loca..., pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 6.1, rotatable: false, specificationLevel: 0, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: c26958d9-44ac-4240-af90-3a24fb70ca7f
+*** Element info: {Using=xpath, value=//h1}
+---FAIL---Login failed with shiva and Prasad$897867vnbn
+Refer HTML Screen shot for the latest failed screen
+---INFO---inside after method with 2
+---INFO---2
+---INFO---Path D:\QSP\LatestPOM\reports\ss\validateLoginFailTestSun_Jun_24_12_25_31_IST_2018.png
+---SCREENSHOT---<a href='D:\QSP\LatestPOM\reports\ss\validateLoginFailTestSun_Jun_24_12_25_31_IST_2018.png' data-featherlight='image'><img class='report-img' src='file:///D:\QSP\LatestPOM\reports\ss\validateLoginFailTestSun_Jun_24_12_25_31_IST_2018.png' /></a>

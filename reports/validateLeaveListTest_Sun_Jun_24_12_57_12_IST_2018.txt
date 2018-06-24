@@ -1,0 +1,17 @@
+---Test case execution started---validateLeaveListTest-started
+---INFO---****Entering UserName shiva
+---INFO---****Entering User Password Prasad$897867
+---INFO---****Clicking on Login Button
+---PASS---Login Success
+---INFO---Moving mouse to List Tab 
+---INFO------clicking on leave list---
+---PASS---*** Click on leave list success***
+---INFO------ Entering date--- 2018-01-01
+---INFO------Entering to date ---2018-12-31
+---INFO------Selecting All Check box ---
+---INFO-----function to click on checkbox
+---INFO---waited successfully for the element to be clickable
+---INFO---Checkbox is not selected .. clicking on checkbox
+---INFO------ Entering Employee name---Employee-A LN-1
+---INFO------Click on search button---
+---INFO---clicking on welcome link
